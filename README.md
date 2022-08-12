@@ -4,7 +4,7 @@
      
 - 👀 I’m interested in .<..SOMEONE..>.
 - 🌱 I’m currently learning .<..DATA STRUCTURE..>.<C++>.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me .<.. akyhewal2001@gmail.com ..>.
 
 <!---
